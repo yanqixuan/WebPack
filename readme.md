@@ -22,7 +22,7 @@
   核心的转译库 npm run build "babel..."
 
   babel-cli
-
+  (load过程)
   babel-preset-env
   预编译规则  配合.babelrc 配置文件
   {
